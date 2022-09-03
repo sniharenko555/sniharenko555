@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @sniharenko555
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning in Hillel school
 
 first test
 second test
+Home work done
+
 
 
